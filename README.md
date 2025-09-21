@@ -1,4 +1,49 @@
-# � CraftConnect - AI-Powered Artisan Marketplace
+# 🎨 CraftConnect - AI-Powered Artisan Marketplace
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue?style=for-the-badge&logo=typescript)
+![AI](https://img.shields.io/badge/AI-Powered-green?style=for-the-badge&logo=openai)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
+
+**🚀 An AI-Driven Platform for Local Artisans to Share Stories and Expand Digital Reach**
+
+*Connecting authentic craftsmanship with global audiences through AI-powered storytelling* ✨
+
+### 🎬 **Experience CraftConnect Now!**
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_CraftConnect-blue?style=for-the-badge)](https://craftconnect-beta.vercel.app/)
+[![Video Demo](https://img.shields.io/badge/🎥_Video_Demo-Watch_Features-red?style=for-the-badge)](https://www.loom.com/share/b0fb6b74fbcd4441b2de98cdad24292d?sid=d78d5a61-e7d5-44a3-9562-013292b5b9f9)
+
+[📖 Documentation](#features) • [🐛 Report Bug](https://github.com/aadil0307/GenAI/issues) • [✨ Request Feature](https://github.com/aadil0307/GenAI/issues)raftC**🚀 An AI-Driven Platform for Local Artisans to Share Stories and Expand Digital Reach**
+
+*Connecting authentic craftsmanship with global audiences through AI-powered storytelling* ✨
+
+[🌐 **Live Demo**](https://craftconnect-beta.vercel.app/) • [🎥 **Video Demo**](https://www.loom.com/share/b0fb6b74fbcd4441b2de98cdad24292d?sid=d78d5a61-e7d5-44a3-9562-013292b5b9f9) • [📖 Documentation](#features) • [🐛 Report Bug](https://github.com/aadil0307/GenAI/issues) • [✨ Request Feature](https://github.com/aadil0307/GenAI/issues)
+
+</div>
+
+---
+
+## 🎬 **Live Demo & Video**
+
+<div align="center">
+
+### 🌐 **[Try the Live Prototype →](https://craftconnect-beta.vercel.app/)**
+*Experience the full AI-powered artisan marketplace in action*
+
+### 🎥 **[Watch Demo Video →](https://www.loom.com/share/b0fb6b74fbcd4441b2de98cdad24292d?sid=d78d5a61-e7d5-44a3-9562-013292b5b9f9)**
+*See the platform features and AI storytelling capabilities*
+
+**🚀 Ready to explore? Click the links above to see CraftConnect in action!**
+
+</div>
+
+---
+
+## 🎯 **Problem Statement Alignment**t - AI-Powered Artisan Marketplace
 
 <div align="center">
 
@@ -94,9 +139,9 @@
 
 ### 1️⃣ **Clone & Install**
 ```bash
-git clone https://github.com/aadil0307/OdooXNMIT_Round1.git
-cd OdooXNMIT_Round1
-npm install
+git clone https://github.com/aadil0307/GenAI.git
+cd GenAI
+npm install --legacy-peer-deps
 ```
 
 ### 2️⃣ **Environment Setup**
