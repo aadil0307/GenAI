@@ -33,7 +33,7 @@ export default function ProfilePage() {
       trackProfileView()
       fetchUserStories()
     }
-  }, [user, trackProfileView])
+  }, [user]) // Removed trackProfileView from dependencies
 
   const fetchUserStories = async () => {
     if (!user) return

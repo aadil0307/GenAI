@@ -166,7 +166,7 @@ export default function DynamicAIStoryPage() {
     return () => {
       clearTimeout(engagementTimer)
     }
-  }, [trackProfileView, trackEngagement])
+  }, []) // Empty dependency array - only run once on mount
 
   const handleProfileChange = (field: keyof ArtisanProfile, value: any) => {
     setProfile(prev => ({ ...prev, [field]: value }))
